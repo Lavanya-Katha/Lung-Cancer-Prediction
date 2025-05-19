@@ -1,0 +1,12 @@
+
+python-multipart==0.0.6
+
+# Image Processing
+opencv-python==4.8.1.78
+numpy==1.26.2
+Pillow==10.1.0
+scikit-image==0.22.0
+
+# Optional Dependencies
+scipy==1.11.4
+matplotlib==3.8.2
